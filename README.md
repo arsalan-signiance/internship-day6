@@ -1,4 +1,4 @@
-# Internship Day 6 - DevOps Engineer Intern (Cygnus Technology)
+# Internship Day 6 - DevOps Engineer Intern (Signiance Technology)
 
 This repository contains the Day 6 internship task report and learning notes based on the **AWS Certified Solutions Architect** Udemy course progress.
 
